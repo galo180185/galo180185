@@ -34,14 +34,8 @@ Actualmente me formo intensamente en el bootcamp de **TripleTen**.
 
 Aquí puedes ver el desarrollo completo de mis proyectos de diseño:
 
-1. **[Nombre del Proyecto 1]** - *[Breve descripción, ej: Rediseño de app móvil para adopción de mascotas]*. [Ver Caso de Estudio]
-2. **[Nombre del Proyecto 2]** - *[Breve descripción, ej: Plataforma web para gestión de tareas de equipos remotos]*. [Ver Caso de Estudio]
-
----
-
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://vercel.app)
+1. **[Diseño Responsivo]** - *[Se creo desde cero un ejemplo de pantalla responsiva, con la simulacion de una plataforma que permite administrar diversas cuentas que requieren suscripcion, permitiendo que el diseño se adapte a diferentes resoluciones desktop]*. [https://www.figma.com/design/yQWGtSQmKITTiXc98O7M3F/Galo-Alberto-Gabriel-Res%C3%A9ndiz---Sprint-10?node-id=1-49&t=5LuDagtABa5Uwbm4-1]
+2. **[Wareframes y prototipado]** - *[Se simulo la creacion de una app para que los empleados de una empresa puedan realizar sus comprobaciones de viáticos; se trabajó desde cero realizando los wareframes y prototipado en fidelidad baja y media]*. [https://www.figma.com/design/3PH5IEnreGLfvqvN2yWjGL/Proyecto6_GaloAlberto2?t=5LuDagtABa5Uwbm4-1]
 
 ---
 
@@ -49,4 +43,4 @@ Aquí puedes ver el desarrollo completo de mis proyectos de diseño:
 
 - 💼 LinkedIn: [://linkedin.com](https://://linkedin.com)
 - 🎨 Portafolio (Behance/Dribbble/Figma): [enlace-a-tu-portafolio]
-- 📧 Correo: [tu-correo@email.com](mailto:tu-correo@email.com)
+- 📧 Correo: [galo180185@gmail.com](mailto:galo180185@gmail.com)
