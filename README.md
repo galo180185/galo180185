@@ -59,8 +59,8 @@ Puedes visitar este proyecto en: https://www.figma.com/design/3PH5IEnreGLfvqvN2y
 
 ---
 
-## 📫 Conectemos
+## 📫 Puedes contactarme en:
 
-- 💼 LinkedIn: [://linkedin.com](https://://linkedin.com)
+- 💼 LinkedIn: www.linkedin.com/in/galoalberto1985
 - 🎨 Portafolio: https://github.com/galo180185
 - 📧 Correo: [galo180185@gmail.com](mailto:galo180185@gmail.com)
