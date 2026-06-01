@@ -42,5 +42,5 @@ Aquí puedes ver el desarrollo completo de mis proyectos de diseño:
 ## 📫 Conectemos
 
 - 💼 LinkedIn: [://linkedin.com](https://://linkedin.com)
-- 🎨 Portafolio: [https://github.com/galo180185]
+- 🎨 Portafolio: https://github.com/galo180185
 - 📧 Correo: [galo180185@gmail.com](mailto:galo180185@gmail.com)
