@@ -1,4 +1,4 @@
-¡[image alt](https://github.com/galo180185/galo180185/blob/a3472997278f8f6640e38c69ee10461b438c9a00/fondo%20baner%20perfiles.jpeg)
+![image alt](https://github.com/galo180185/galo180185/blob/a3472997278f8f6640e38c69ee10461b438c9a00/fondo%20baner%20perfiles.jpeg)
 
 # ¡Hola! Soy Galo Alberto 👋
 
