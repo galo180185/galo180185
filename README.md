@@ -36,8 +36,26 @@ Actualmente me formo intensamente en el bootcamp de **TripleTen**.
 
 Aquí puedes ver el desarrollo completo de mis proyectos de diseño:
 
-1. **Diseño Responsivo** - *Se creo desde cero un ejemplo de pantalla responsiva, con la simulacion de una plataforma que permite administrar diversas cuentas que requieren suscripcion, permitiendo que el diseño se adapte a diferentes resoluciones desktop]*. https://www.figma.com/design/yQWGtSQmKITTiXc98O7M3F/Galo-Alberto-Gabriel-Res%C3%A9ndiz---Sprint-10?node-id=1-49&t=5LuDagtABa5Uwbm4-1
-2. **Wareframes y prototipado** - *Se simulo la creacion de una app para que los empleados de una empresa puedan realizar sus comprobaciones de viáticos; se trabajó desde cero realizando los wareframes y prototipado en fidelidad baja y media]*.https://www.figma.com/design/3PH5IEnreGLfvqvN2yWjGL/Proyecto6_GaloAlberto2?t=5LuDagtABa5Uwbm4-1
+1. **Diseño Responsivo**
+
+***Contexto del Proyecto:*** Se tiene el caso hipotético donde se requiere una plataforma exclusiva para desktop que permita administrar las cuentas de suscripción de un usuario. Esta interfáz deve ser escalable en resoluciones desktop solamente
+
+***Análisis:*** Utilizando la metodología First Mobile como inspiración, se parte diseñando desde la resoución mínimma en 640 * 480, y se utiliza la herramienta de autolayout para lograr la escalabilidad hasta 1920 * 1080
+ 
+***Concluisones Principales:*** Es crucial el poder entender, leer y trabajar con la herramienta autolayout, así como poder trabajar autolayouts anidados para poder resolver y ejecutar de manera efectiva diseños escalables.
+
+Puedes visitar este proyecto en: https://www.figma.com/design/yQWGtSQmKITTiXc98O7M3F/Galo-Alberto-Gabriel-Res%C3%A9ndiz---Sprint-10?node-id=1-49&t=5LuDagtABa5Uwbm4-1
+
+
+2. **Wareframes y prototipado**
+
+***Contexto del Proyecto:*** Una empresa requiere una app en la cual sus trabajadores puedan realizar sus comprobaciones por viáticos
+
+***Análisis***: Utilizando mapas de flujo se generan las posibilidades para lograr el objetivo, se contemplan caminos sin contratiempos como situaciones con variables que permitan volver a seleccionar el comprobante, la fecha, mensajes de error si el comprobante está fuera de fecha, elegir el medio por el cual se realizara el reembolso. El mapa de flujo sirve para realizar los wireframes primero en baja y posteriormente en media fidelidad para posteriormente realizar el prototipado.
+
+***Concluisones Principales:*** Para un prototipo efectivo, es fundamental realizar una investigacion sobre lo que el cliente requiere y poder plasmarlo en un mapa de flujo, para este a su vez poder trasladarlo a wireframes que podrán servir de ensayo hasta lograr el prototipado en media o alta fidelidad para que el cliente pueda ver una simulación muy cercana o fiel a su producto final.
+
+Puedes visitar este proyecto en: https://www.figma.com/design/3PH5IEnreGLfvqvN2yWjGL/Proyecto6_GaloAlberto2?t=5LuDagtABa5Uwbm4-1
 
 ---
 
